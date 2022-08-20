@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Turtlegim
-- 👀 I’m interested in Backend developing
-- 🌱 I’m currently learning java, spring, unreal, c++
+- 👀 I’m interested in Backend Development
+- 🌱 I’m currently learning Java, Spring, Spring Boot, JPA, AWS
 - 📫 How to reach me: turtlegim@gmail.com
 
 <!---
